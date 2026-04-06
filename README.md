@@ -1,6 +1,6 @@
 # Python CLI Tool
 <img src="https://socialify.git.ci/SefBitz/s.py/image?description=1&font=Jost&language=1&name=1&owner=1&pattern=Circuit+Board&stargazers=1&theme=Dark">
-
+https://raw.githubusercontent.com/CLorant/readme-social-icons/main/size/example_folder/example.svg
 This is a custom Python-based Command Line Interface (CLI) designed to be launched directly from a Bash terminal (Linux, macOS, or Git Bash on Windows).
 
 ## 🚀 Quick Start
